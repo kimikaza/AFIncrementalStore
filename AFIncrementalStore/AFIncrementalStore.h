@@ -66,9 +66,6 @@
  */
 @property (readonly) NSPersistentStoreCoordinator *backingPersistentStoreCoordinator;
 
-
-@property (readonly) NSManagedObjectContext *backingManagedObjectContext;
-
 ///-----------------------
 /// @name Required Methods
 ///-----------------------
